@@ -36,3 +36,4 @@ if __name__ == "__main__":
         file.close()
         data = get_last_line("data.txt").decode("utf-8")
         print(data)
+        pass
